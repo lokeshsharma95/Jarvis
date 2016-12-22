@@ -1,13 +1,11 @@
 # Project Jarvis
 
-by [AJ Minich](http://ajminich.com/projects)
 
 Jarvis is a personal assistant that uses natural language processing and a database 
 of pre-programmed functionality to respond to user requests. Jarvis is driven by a 
 Java-based backend that performs core operations, and can be used through various 
 interfaces.
 
-Jarvis is named after Tony Stark's automated assistant in the *[Ironman](http://en.wikipedia.org/wiki/Edwin_Jarvis#Film)* series.
 
 ## Overview
 
